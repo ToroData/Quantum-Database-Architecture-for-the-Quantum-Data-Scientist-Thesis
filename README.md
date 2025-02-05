@@ -55,7 +55,7 @@ This script generates a visualization of EIT using a semiclassical approximation
 - Representation of the Hamiltonian and Rabi frequencies.
 
 <video controls width="100%">
-  <source src="EITSetup.mp4" type="video/mp4">
+  <source src="Manim/docs/EITSetup.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -72,10 +72,10 @@ This project hosts a numerical simulation of Electromagnetically Induced Transpa
   - Visualization of susceptibility for control ON/OFF states.
 
 <p style="text-align: center;">
-  <img src="Real_and_Imaginary_Parts_of_First_Order_Electrical_Susceptibility.png" alt="Real and Imaginary Parts of First Order Electrical Susceptibility" style="width: 50%;">
+  <img src="Electromagnetically Induced Transparency Simulation/docs/Real_and_Imaginary_Parts_of_First_Order_Electrical_Susceptibility.png" alt="Real and Imaginary Parts of First Order Electrical Susceptibility" style="width: 50%;">
 </p>
 <p style="text-align: center;">
-  <img src="Imaginary_Part_of_First_Order_Susceptibility_Control_ON.png" alt="Imaginary Part of Susceptibility" style="width: 50%;">
+  <img src="Electromagnetically Induced Transparency Simulation/docs/Imaginary_Part_of_First_Order_Susceptibility_Control_ON.png" alt="Imaginary Part of Susceptibility" style="width: 50%;">
 </p>
 
 - Link to Project: [Electromagnetically Induced Transparency (EIT): Simulation and Visualization](./Electromagnetically%20Induced%20Transparency%20Simulation/docs/README.md)
