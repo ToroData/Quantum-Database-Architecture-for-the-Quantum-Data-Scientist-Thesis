@@ -100,6 +100,14 @@ This project visualizes the Uncertainty Principle in quantum mechanics using a 2
 
 ---
 
+## 5. Presentation used in the defense
+
+Presentation used in the defense
+
+- Link to Project: [Presentation used in the defense](./Presentation%20used%20in%20the%20defense/BsC_presentation.pptx)
+
+---
+
 ## Licence
 
 This project is licensed under the same terms as the BSc thesis it is derived from. Please refer to the thesis documentation for specific licensing details and any applicable restrictions.
