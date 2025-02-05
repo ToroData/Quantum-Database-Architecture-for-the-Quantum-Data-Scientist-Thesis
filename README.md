@@ -1,6 +1,12 @@
 # Quantum Database Architecture for the Quantum Data Scientist: A Theoretical Treatise on Lindblad Operators, EIT in Multi-Level Atomic Ensembles, and High-Fidelity Data Encoding
 
-This repository hosts all the projects developed within the framework of the Bachelor thesis, refer to [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14810946.svg)](https://doi.org/10.5281/zenodo.14810946).
+This repository contains all the projects developed as part of the Bachelor's thesis. For details on the thesis, refer to: 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14810946.svg)](https://doi.org/10.5281/zenodo.14810946).
+
+To cite the code, please use the following reference: 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14811156.svg)](https://doi.org/10.5281/zenodo.14811156).
 
 Quantum memories are indispensable for driving secure quantum communication networks, as well as for solving challenges in large-scale data storage and processing. This thesis is based on quantum mechanics and quantum optics—particularly on Electromagnetically Induced Transparency (EIT) and the DLCZ protocol—, and addresses critical issues of Big Data management, ethical information handling, and data security in data science. However, providing high-fidelity storage, mitigating noisy channels, and designing efficient quantum algorithms for secure and ethical data handling remains an open challenge. This thesis presents an architecture for quantum databases that combines the physics of multi-level atomic ensembles with state-of-the-art quantum algorithms. The objective is to attain secure and ethical Big Data handling by means of quantum memory systems. A review is carried out through Lindblad operators and light-matter interactions, establishing a quantum database architecture capable of responding to the requirements of data science. Both in the Lambda scheme within an EIT-based quantum memory and the DLCZ protocol, the system achieves high-fidelity photon-atom coherence and secure storage. At the algorithmic level, the proposal leverages Hilbert subspaces as logical partitions  —similar to sharding in classical databases—, enabling scalable data encoding and manipulation through unitary operations. These operations allow for the efficient and parallel retrieval of information, while maintaining coherence in noisy environments. The simulation results confirm the theoretical framework described and demonstrate the system's ability to establish an ethical treatment of Big Data while strengthening information security. This thesis thus novelly proposes the integration of quantum systems in data science, addressing privacy, ethics, and security issues at scale, offering a framework with practical applications of secure data governance.
 
