@@ -1,6 +1,6 @@
 # Quantum Database Architecture for the Quantum Data Scientist: A Theoretical Treatise on Lindblad Operators, EIT in Multi-Level Atomic Ensembles, and High-Fidelity Data Encoding
 
-This repository hosts all the projects developed within the framework of the Bachelor thesis.
+This repository hosts all the projects developed within the framework of the Bachelor thesis, refer to [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14810946.svg)](https://doi.org/10.5281/zenodo.14810946).
 
 The thesis proposes the use of a quantum database (qDB) capable of solving data security and ethical challenges—both in transit and at rest. In addition, addressing ethical treatment by ensuring protocols capable of detecting and preventing access to the data by an eavesdropper.
 
