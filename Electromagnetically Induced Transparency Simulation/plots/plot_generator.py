@@ -81,7 +81,7 @@ def generate_plot(
         Re_chi1_off, Im_chi1_off: Real and imaginary parts of susceptibility (control OFF)
     """
     configure_plot_styles()
-    annotations = get_annotations()
+    # annotations = get_annotations()
     fig, ax = plt.subplots(figsize=(12, 10))
 
     ax.plot(
@@ -115,7 +115,7 @@ def generate_plot(
         'Susceptibility $\\chi^{(1)}$',
         'Real and Imaginary Parts of First Order Electrical Susceptibility')
 
-    add_annotations(ax, annotations)
+    # add_annotations(ax, annotations)
 
     ax.legend(
         loc='upper right',
@@ -124,7 +124,7 @@ def generate_plot(
         frameon=False,
         title_fontsize=14
     )
-    plt.show()
+    return fig
 
 
 def generate_imaginary_active_plot(
@@ -162,4 +162,4 @@ def generate_imaginary_active_plot(
         frameon=False,
         title_fontsize=14
     )
-    plt.show()
+    return fig
